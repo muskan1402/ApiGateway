@@ -54,7 +54,7 @@ Ensure that you have the following prerequisites installed on your machine:
 - [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
 - [Docker](https://www.docker.com/get-started)
 
-### Setup
+### Setup ###
 
 **1. Clone the repository:**
   ```bash
@@ -70,5 +70,5 @@ Ensure that you have the following prerequisites installed on your machine:
    
 # License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). 
 
